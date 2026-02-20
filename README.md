@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   
   <!-- Animated Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF4757&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sandeep+Kommineni;AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Production-Grade+AI+Systems;%F0%9F%92%BC+Work+Account" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF4757&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sandeep+Kommineni;AI%2FML+Engineer+%7C+Full-Stack+Developer;Helping+Build+TruGen.AI;%F0%9F%92%BC+Work+Account" alt="Typing SVG" />
   
   <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" />
@@ -34,7 +34,7 @@
     </tr>
     <tr>
       <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20" /> <b>Status</b></td>
-      <td><img src="https://img.shields.io/badge/Available_for_Opportunities-00C853?style=flat&logo=checkmarx&logoColor=white" /></td>
+      <td>Working for 1–2 years, then moving to the <b>USA</b> for <b>MS</b> & eventually a <b>PhD</b></td>
     </tr>
     <tr>
       <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="20" /> <b>Resume</b></td>
@@ -53,10 +53,10 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```diff
-+ Passionate AI/ML Engineer building production-grade intelligent systems
-+ Currently architecting TruGen.AI — next-gen multimodal conversational AI
-+ Proven track record with 2 live AI platforms serving 1000+ users
-+ Top 6 finalist at IIT Convolve 3.0 (4500+ participants)
++ AI/ML Engineer currently helping build TruGen.AI at Truviz.AI
++ Contributing new features, LiveKit agent integrations, RPC tools & tool calling
++ Fixing bugs, improving stability, and making the platform better
++ Planning to pursue MS in the USA, followed by a PhD
 ```
 
 <br>
@@ -67,9 +67,9 @@
   <tr>
     <td width="50%" valign="top">
 
-🔭 **Building** [**TruGen.AI**](https://trugen.ai/)
+🔭 **Helping Build** [**TruGen.AI**](https://trugen.ai/)
 
-> Revolutionary multimodal conversational AI platform with real-time voice, video, and text interactions using LiveKit, OpenAI, Groq, and Agentic AI
+> Contributing new features, integrating LiveKit agents, implementing RPC tools & tool calling, and fixing bugs
 
 </td>
     <td width="50%" valign="top">
@@ -117,12 +117,12 @@
 ## 💼 Professional Experience
 
 ### 🔹 AI/ML Engineer @ Truviz.AI *(Current)*
-Building **[TruGen.AI](https://trugen.ai/)** — a revolutionary multimodal conversational AI platform that's pushing the boundaries of human-AI interaction
-- **Technologies**: LiveKit, OpenAI, Groq, Agentic AI, WebRTC, Cloud Infrastructure, Multimodal AI
-- Architecting and developing real-time voice, video, and text AI interactions with seamless multimodal capabilities
-- Implementing advanced LLM orchestration, agentic workflows, and context-aware AI systems
-- Conducting comprehensive end-to-end testing and performance optimization for production deployment
-- Exploring cutting-edge real-time communication technologies for next-gen AI experiences
+Helping build **[TruGen.AI](https://trugen.ai/)** — a multimodal conversational AI platform
+- **Technologies**: LiveKit, OpenAI, Groq, Agentic AI, WebRTC, Cloud Infrastructure
+- Building and integrating LiveKit agents for real-time voice and video AI interactions
+- Implementing RPC tools, tool calling, and agent-based workflows
+- Fixing bugs, improving stability, and optimizing performance
+- Building new features and helping make the platform better
 
 ### 🔹 AI/ML Research Intern @ KL University
 Focused on cutting-edge AI research and development
