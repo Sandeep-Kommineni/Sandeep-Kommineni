@@ -344,6 +344,13 @@ A revolutionary multimodal conversational AI platform that's redefining human-AI
         <br>Connect with me
       </a>
     </td>
+    <td align="center" width="33%">
+      <a href="https://x.com/SANDEEPKOMMINE1">
+        <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="80"/>
+        <br><b>X (Twitter)</b>
+        <br>@SANDEEPKOMMINE1
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center" width="33%">
