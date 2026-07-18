@@ -361,7 +361,7 @@ A revolutionary multimodal conversational AI platform that's redefining human-AI
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/17Vf91MFwQQAjIOJSUgedDYGPQMMU5m2Z/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/1idBE3V7amRSo6OTz4GD1Iuusi68PPMF1/view?usp=sharing">
         <img src="https://img.icons8.com/fluency/96/000000/google-drive.png" width="80"/>
         <br><b>Resume</b>
         <br>View my CV
