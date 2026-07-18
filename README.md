@@ -382,7 +382,7 @@ A revolutionary multimodal conversational AI platform that's redefining human-AI
 [![Website & Portfolio](https://img.shields.io/badge/🌐_sandeepkommineni.me-4A90E2?style=for-the-badge)](https://sandeepkommineni.me)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sandeep-kommineni-334037259)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepkommineni2@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/17Vf91MFwQQAjIOJSUgedDYGPQMMU5m2Z/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1idBE3V7amRSo6OTz4GD1Iuusi68PPMF1/view?usp=sharing)
 
 </div>
 
