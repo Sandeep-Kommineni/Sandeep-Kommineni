@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="20" /> <b>Resume</b></td>
-      <td><a href="https://drive.google.com/file/d/17Vf91MFwQQAjIOJSUgedDYGPQMMU5m2Z/view?usp=sharing"><img src="https://img.shields.io/badge/View_Resume-FF6B6B?style=flat&logo=google-drive&logoColor=white" /></a></td>
+      <td><a href="https://drive.google.com/file/d/1idBE3V7amRSo6OTz4GD1Iuusi68PPMF1/view?usp=sharing"><img src="https://img.shields.io/badge/View_Resume-FF6B6B?style=flat&logo=google-drive&logoColor=white" /></a></td>
     </tr>
   </table>
   
@@ -106,7 +106,7 @@
 
 <div align="center">
   
-[![Resume](https://img.shields.io/badge/📄_View_My_Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/17Vf91MFwQQAjIOJSUgedDYGPQMMU5m2Z/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_View_My_Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1idBE3V7amRSo6OTz4GD1Iuusi68PPMF1/view?usp=sharing)
 [![TruGen.AI](https://img.shields.io/badge/🚀_Explore_TruGen.AI-4A90E2?style=for-the-badge&logo=ai&logoColor=white)](https://trugen.ai/)
 [![MoveLogic.ai](https://img.shields.io/badge/🔗_Visit_MoveLogic.ai-00C853?style=for-the-badge&logo=logistics&logoColor=white)](https://movelogic.ai/)
 
